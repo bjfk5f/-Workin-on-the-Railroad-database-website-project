@@ -1,0 +1,11 @@
+
+To make trains with rail cars
+Steps
+Make a customer account through registration page on website
+execute steps: (user_id matches account just made, rest made up dummy)
+INSERT INTO customer (user_id, company_id, num_cars_requested, cargo_type, car_type_requested) VALUES ('jm', 'xxt', 5, "Coal", "rail");
+
+
+
+
+user_id, car_type, location, manufacturer, freight_capacity, reservation_status, price, train_no
